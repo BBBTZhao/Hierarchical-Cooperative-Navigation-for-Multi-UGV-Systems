@@ -2,4 +2,3 @@ Achieving safe and efficient navigation for multi-UGV systems in highly coupled 
 
 ## Random Obstacle Scenario
 
-![](Global path planning (Intersection).gif)
